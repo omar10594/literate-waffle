@@ -1,0 +1,11 @@
+{
+  "name": "literate-waffle",
+  "version": "1.0.0",
+  "description": "Example app DO",
+  "main": "index.js",
+  "repository": "git@github.com:omar10594/literate-waffle.git",
+  "author": "Guillermo Lopez <omar10594@hotmail.com>",
+  "dependencies": {
+    "cli": "^1.0.1"
+  }
+}
